@@ -5,7 +5,7 @@
 ## dotnet-sample
 * Prerequirement:
     >* Install the [Visual Studio 2017](https://www.visualstudio.com/).
-    >* Isntall [Git](https://git-scm.com/).
+    >* Install [Git](https://git-scm.com/).
     >* Install [Microsoft Azure Service Fabrik SDK](http://www.microsoft.com/web/handlers/webpi.ashx?command=getinstallerredirect&appid=MicrosoftAzure-ServiceFabric-CoreSDK).
     >* Run the following command via PowerShell.
         </br> Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force -Scope CurrentUser
